@@ -1,0 +1,142 @@
+[
+    {
+        "place_Id": 1,
+        "hotelName": " Best Western Heritage",
+        "hotelId": 1,
+        "room": {
+            "bedRoom": 3,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 5,
+        "price": 7000
+    },
+    {
+        "place_Id": 1,
+        "hotelName": " Sea Pearl Beach Resort ",
+        "hotelId": 2,
+        "room": {
+            "bedRoom": 2,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located on world's longest undivided coastline - Cox's Bazar. > Largest Eco Resort located on Inani Beach - Excellent coral viewing. > Majority of our rooms have a sea view with a choice of balcony and kitchenettes > Multiple Food & Beverage venues serving local and international Cuisines > Kids Zone, Ice Cream Parlor, Gaming Room, Bars, Pool and Snooker Room, Theatre, Amphitheatre, Spa and Wellness Centre. Tennis court and Badminton Courts, The largest destination for your MICE events. Beach Front area with Beach chairs, the largest pools in the country, boasting one even for the ladies.",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/91/f6/ec/royal-family-suite-nd.jpg?w=1100&h=-1&s=1",
+        "rating": 4.5,
+        "price": 6500
+    },
+    {
+        "place_Id": 1,
+        "hotelName": " Long Beach Hotel",
+        "hotelId": 4,
+        "room": {
+            "bedRoom": 2,
+            "bed": 2,
+            "bath": 1
+        },
+        "details": "A heart throbbing experience at Cox’s Bazar. Encompassing the spectacular views of Cox’s Bazar, Long Beach Hotel stands very close to the hills and sea-beach, offering world class facilities and exhilarating experience to its guests. Whether you are planning a great vacation, the sweetest of honeymoons or a cozy business tour, you would prefer our beach hotel for your relaxing stay. Imagine that the 120 km astonishing longest beach in the world is just five-minute walk away from your room, providing an exuberant sensation in your mind and filling your heart with magnificent joy. Starting from Cox’s Bazar’s longest beach view to the comforts which you would be looking for are all here, making Long Beach Hotel the perfect choice for business, romance and holiday travel. Make your every move easy in Cox’s Bazar by staying with us.",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/65/d5/51/long-beach-hotel.jpg?w=1200&h=-1&s=1",
+        "rating": 5,
+        "price": 9000
+    },
+    {
+        "place_Id": 2,
+        "hotelName": "Sayeman Beach Resort",
+        "hotelId": 5,
+        "room": {
+            "bedRoom": 3,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 4,
+        "price": 7000
+    },
+    {
+        "place_Id": 2,
+        "hotelName": "Rose View Hotel",
+        "hotelId": 6,
+        "room": {
+            "bedRoom": 3,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 5,
+        "price": 5000
+    },
+    {
+        "place_Id": 2,
+        "hotelName": " Best Western Heritage",
+        "hotelId": 7,
+        "room": {
+            "bedRoom": 3,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Rose View Hotel welcomes you to enjoy comfort and luxury, a place where you will find exceptional five star facilities and world class hospitality. The Hotel features 140 fully equipped deluxe and suite rooms, an extensive array of restaurant outlets catering for international and local palates, fully equipped fitness centre, sauna and steam, authentic Thai Spa, heated roof top swimming pool, the only fully stocked licensed bar in the City and a full range of meeting and event facilities ideal for business and private gatherings for up to 1000 people. Conveniently and centrally located from the shopping and business districts, served by Osmani International Airport, national train networks and accessible via the main road links connecting the city to Dhaka, Rose View Hotel combines style, warmth and convenience with a dash of creativity to deliver an experience that is like no other.",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7d/f1/e2/executive-suit.jpg?w=1200&h=-1&s=1",
+        "rating": 4,
+        "price": 6000
+    },
+    {
+        "place_Id": 2,
+        "hotelName": "Hotel Noorjahan Grand",
+        "hotelId": 8,
+        "room": {
+            "bedRoom": 4,
+            "bed": 7,
+            "bath": 4
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 5,
+        "price": 10000
+    },
+    {
+        "place_Id": 2,
+        "hotelName": "Jatra Flagship Sylhet City Centre",
+        "hotelId": 9,
+        "room": {
+            "bedRoom": 3,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 3.5,
+        "price": 6500
+    },
+    {
+        "place_Id": 3,
+        "hotelName": " Best Western Heritage",
+        "hotelId": 10,
+        "room": {
+            "bedRoom": 2,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 5,
+        "price": 7000
+    },
+    {
+        "place_Id": 3,
+        "hotelName": "Venus Resort",
+        "hotelId": 11,
+        "room": {
+            "bedRoom": 3,
+            "bed": 3,
+            "bath": 2
+        },
+        "details": "Located just a few steps away from the World's largest sandy sea Beach, Cox's Bazar, Bangladesh. The thirteen stories building have 236 spacious rooms, perfect for family with all modern amenities, which include 42 LED TVs with satellite channels, minibars, tea and coffee making facilities along with complimentary high speed internet access through WiFi and LAN Cable connection. Large 200 covers Inani restaurant with high ceiling and ample Sun shine starts your day bright with wide array of buffet breakfast, which includes a good selection of locale food. Rooftop pool could be a right spot for your leisurely time with some gaming options at the adjacent space. With its large number of rooms, five banqueting options and skilled smiling staff, Best Western Heritage hotel comes to you as a venue to host your next residential conference, get together or a family function, which you would cherish for long. So whether it is a family's leisure trip or a social or a corporate event, Best Western Heritage Hotel in Cox's Bazar will always be an ideal choice",
+        "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a6/a2/94/best-western-heritage.jpg?w=1200&h=-1&s=1",
+        "rating": 5,
+        "price": 7000
+    }
+]
